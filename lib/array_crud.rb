@@ -4,6 +4,7 @@ end
 
 def create_an_array
   array([2,3,4,5]
+  array.push(6)
   
 end
 
